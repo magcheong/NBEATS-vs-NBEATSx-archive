@@ -1,1 +1,3 @@
 # NBEATS-vs-NBEATSx-archive
+
+This project was initially for project module for Specialist Diploma in Appled AI course. The outcome of the project was not gratifying as the optimisation on NBEATS did not manage to resolve errors observed in the predictions. A quick test on NBEATSx at that time did not manage to produce better results. Due to time constraint due to project deadline, NBEATSx could not be further evaluated. The re-evaluation done this time round was to revisit the optimsation by Optuna for NBEATS and give NBEATSx a deeper evaluation. This re-evaluation has also considered many more hyperparameters. 
